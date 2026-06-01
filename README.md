@@ -1,2 +1,2 @@
 # gloreum-foundation-site
-Gloreum Eternal Chain Official Website
+The Gloreum Eternal Ecosystem Official Website
